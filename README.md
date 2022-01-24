@@ -1,4 +1,4 @@
-# Onlineformapro - Projet Javascript
+# OnlineFormaPro - Projet JavaScript
 
 Dans ce projet JavaScript, vous allez apprendre à créer des composants d'accès aux données et à manipuler une base de donnée. Le but de cette activité : création d'une page web avec un espace de connexion.
 
@@ -16,6 +16,8 @@ Pour commencer, suivre les étapes suivantes :
 - Installer les modules Front-End
 - Installer les modules Back-End
 - Création d'une page d'accueil
+- Création d'une page de login
+- Affichage d'un "dashboard" une fois l'utilisateur connecté
 
 Vous trouverez l'énoncé détaillé dans le dossier `public` > `docs` > `enonce-project-js.docx`
 
@@ -27,6 +29,8 @@ Pour le CSS, vous devrez utiliser le Framework [Tailwind](https://tailwindcss.co
 ### `Back-End`
 
 Pour mener à bien cet exercice sur la partie Back-End, vous devrez utiliser le Framework [Node JS](https://nodejs.org/en/) ainsi qu'[Express JS](https://expressjs.com/).
+
+Pour la base de données, vous devrez utiliser une base de données NoSql (non-relationnelles) tel que [MongoDb](https://docs.mongodb.com/guides/server/install/)
 
 ## Scripts
 
@@ -77,6 +81,7 @@ Vos formateurs OnlineFormaPro :
 - [ReactJs](https://fr.reactjs.org/docs/create-a-new-react-app.html)
 - [NodeJs](https://nodejs.org/en/)
 - [ExpressJs](https://expressjs.com/)
+- [MongoDb](https://www.mongodb.com/)
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [NPM](https://www.npmjs.com/)
 - [YARN](https://yarnpkg.com/)
