@@ -13,6 +13,8 @@ Pour commencer, suivre les étapes suivantes :
 
 À partir du projet de base qui vous est fourni, réaliser l'exercice en respectant les instructions suivantes :
 
+- Installer les modules Front-End
+- Installer les modules Back-End
 - Création d'une page d'accueil
 
 Vous trouverez l'énoncé détaillé dans le dossier `public` > `docs` > `enonce-project-js.docx`
@@ -65,9 +67,9 @@ Vous n'avez jamais besoin d'utiliser `eject`. L'ensemble de fonctionnalités org
 
 Vos formateurs OnlineFormaPro :
 
-- [Alain Merruci](a.merruci@onlineformapro.com)
-- [Edouard Lebourgeois](e.lebourgeois@onlineformapro.com)
-- [Enrick Payet](e.payet@onlineformapro.com)
+- Alain Merruci (a.merruci@onlineformapro.com)
+- Edouard Lebourgeois (e.lebourgeois@onlineformapro.com)
+- Enrick Payet (e.payet@onlineformapro.com)
 
 ## Ressources
 
