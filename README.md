@@ -30,7 +30,7 @@ Pour le CSS, vous devrez utiliser le Framework [Tailwind](https://tailwindcss.co
 
 Pour mener à bien cet exercice sur la partie Back-End, vous devrez utiliser le Framework [Node JS](https://nodejs.org/en/) ainsi qu'[Express JS](https://expressjs.com/).
 
-Pour la base de données, vous devrez utiliser une base de données NoSql (non-relationnelles) tel que [MongoDb](https://docs.mongodb.com/guides/server/install/).
+Pour la base de données, vous devrez utiliser une base de données NoSql (non-relationnelles) tel que [MongoDb](https://docs.mongodb.com/guides/server/install/) et la librairie [Mongoose](https://mongoosejs.com/).
 
 ## Scripts
 
@@ -82,6 +82,7 @@ Vos formateurs OnlineFormaPro :
 - [NodeJs](https://nodejs.org/en/)
 - [ExpressJs](https://expressjs.com/)
 - [MongoDb](https://www.mongodb.com/)
+- [Mongoose](https://mongoosejs.com/)
 - [Tailwind](https://tailwindcss.com/docs/installation)
 - [NPM](https://www.npmjs.com/)
 - [YARN](https://yarnpkg.com/)
