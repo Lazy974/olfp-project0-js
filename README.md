@@ -5,8 +5,9 @@ Dans ce projet JavaScript, vous allez apprendre à créer des composants d'accè
 Pour commencer, suivre les étapes suivantes :
 
 - Cloner le repository via `git clone`
-- Naviguer jusqu'au dossier `olfp-project0-js`
+- Naviguer jusqu'au dossier `frontend`
 - Utiliser `npm install` afin d'installer les modules node
+- Placez vous à la `racine` de votre projet
 - Utiliser `npm start` pour démarrer le serveur sur `localhost:3000`
 
 ## Énoncé
