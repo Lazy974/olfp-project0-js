@@ -20,7 +20,7 @@ Pour commencer, suivre les étapes suivantes :
 - Création d'une page de login
 - Affichage d'un "dashboard" une fois l'utilisateur connecté
 
-Vous trouverez l'énoncé détaillé dans le dossier `public` > `docs` > `enonce-project-js.docx`
+Vous trouverez l'énoncé détaillé dans le dossier `frontend` > `public` > `docs` > `enonce-project-js.docx`
 
 ### `Front-End`
 
