@@ -41,17 +41,17 @@ Exécute l'application en mode développement.
 Ouvrez [http://localhost:3000](http://localhost:3000) pour l'afficher dans le navigateur.
 
 La page se rechargera si vous apportez des modifications.
-Vous verrez également toutes les erreurs de charpie dans la console.
+Vous verrez également toutes les erreurs dans la console.
 
 ### `npm test` ou `yarn test`
 
-Lance le testeur en mode montre interactive.
+Lance le testeur en mode interactif.
 Voir la section sur [l'exécution des tests](https://facebook.github.io/create-react-app/docs/running-tests) pour plus d'informations.
 
 ### `npm run build` ou `yarn run build`
 
-Génère l'application pour la production dans le dossier de génération.
-Il regroupe correctement React en mode production et optimise la construction pour les meilleures performances.
+Génère l'application pour la production dans le dossier `build`.
+Il regroupe correctement React en mode production et l'optimise pour des meilleures performances.
 
 La construction est minifiée et les noms de fichiers incluent les hachages.
 Votre application est prête à être déployée !
@@ -64,7 +64,7 @@ Voir la section sur le [déploiement](https://facebook.github.io/create-react-ap
 
 Si vous n'êtes pas satisfait de l'outil de construction et des choix de configuration, vous pouvez utiliser `eject` à tout moment. Cette commande supprimera la dépendance de construction unique de votre projet.
 
-Au lieu de cela, il copiera tous les fichiers de configuration et les dépendances transitives (webpack, Babel, ESLint, etc.) directement dans votre projet afin que vous ayez un contrôle total sur eux. Toutes les commandes sauf `eject` fonctionneront toujours, mais elles pointeront vers les scripts copiés afin que vous puissiez les modifier. À ce stade, vous êtes seul.
+Au lieu de cela, il copiera tous les fichiers de configuration et les dépendances transitives (webpack, Babel, ESLint, etc.) directement dans votre projet afin que vous ayez un contrôle total sur eux. Toutes les commandes sauf `eject` fonctionneront toujours, mais elles pointeront vers les scripts copiés afin que vous puissiez les modifier. À ce stade, vous êtes seul(e).
 
 Vous n'avez jamais besoin d'utiliser `eject`. L'ensemble de fonctionnalités organisé convient aux déploiements de petite et moyenne taille, et vous ne devriez pas vous sentir obligé d'utiliser cette fonctionnalité. Cependant, nous comprenons que cet outil ne serait pas utile si vous ne pouviez pas le personnaliser lorsque vous êtes prêt.
 
@@ -72,7 +72,6 @@ Vous n'avez jamais besoin d'utiliser `eject`. L'ensemble de fonctionnalités org
 
 Vos formateurs OnlineFormaPro :
 
-- Alain Merruci (a.merruci@onlineformapro.com)
 - Edouard Lebourgeois (e.lebourgeois@onlineformapro.com)
 - Enrick Payet (e.payet@onlineformapro.com)
 
